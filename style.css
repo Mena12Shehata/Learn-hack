@@ -1,0 +1,260 @@
+img{
+  width: 10000;
+}
+
+div{
+  
+  background-color: black
+}
+
+
+
+h1{
+  color: darkgreen;
+  width: 100px;
+  height: 18px;
+  
+
+}
+
+
+
+p{
+  
+  color: darkgreen;
+  
+  
+}
+
+
+
+h2.mena19{
+  color: red;
+  float:;
+  text-decoration:right;
+  text-align:center;
+  
+  
+  
+}
+
+
+
+div{
+  position: relative;
+  border: 1.5px solid #5CFF0D
+  
+}
+
+
+td{
+  color: green
+
+}
+
+
+
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
+
+th,td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #17E200;
+}
+
+
+h2.mena{
+  
+  text-align:right ;
+  color: darkgreen;
+}
+
+
+p.rem{
+   color: white;
+   height: 40;
+   top:10px;
+   position:right;
+   
+   border: 2px;
+   text-align:center;
+   line-height:1;
+   
+}
+
+
+td.klm{
+  color: #FFFFFF;
+}
+
+
+td.ios{
+  color:#fff;
+}
+
+
+td.android{
+  
+    color:#fff;
+}
+
+
+td.red{
+  
+    color:#FFFFFF
+}
+
+
+td.opj{
+  color:#22FF0D;
+}
+
+
+
+
+
+
+.loader {
+  display: flex;
+  justify-content: center ;
+  align-items: center;
+  height: 100%;
+}
+
+.loader__circle {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  margin: 0 4px;
+  animation: loader_901 1s ease-in-out infinite;
+}
+
+.loader__circle:nth-of-type(1) {
+  background-color: #00FF38;
+  animation-delay: 0;
+}
+
+.loader__circle:nth-of-type(2) {
+  background-color: #E51818;
+  animation-delay: 0.25s;
+}
+
+.loader__circle:nth-of-type(3) {
+  background-color: #15F54D;
+  animation-delay: 0.5s;
+}
+
+.loader__circle:nth-of-type(4) {
+  background-color: #E70D0D;
+  animation-delay: 0.75s;
+}
+
+@keyframes loader_901 {
+  0% {
+    transform: scale(1);
+  }
+
+  20% {
+    transform: scale(1.2);
+  }
+
+  40% {
+    transform: scale(1);
+  }
+}
+
+
+
+th.menas{
+  color: #22FF0D;
+}
+
+th{
+  color:white;
+  
+}
+
+
+td.menad{
+  color:#22FF0D;
+}
+
+
+
+
+table.merb{
+  color:red;
+  
+}
+
+
+h3.mejs{
+  
+  color:red;
+}
+
+
+div{
+  color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button {
+ color: #000000;
+ padding: 0.7em 1.7em;
+ font-size: 18px;
+ border-radius: 0.5em;
+ background: #FFFFFF;
+ border: 1px solid #10ED0F;
+ transition: all .3s;
+ box-shadow: 6px 6px 12px #15FF14,
+             -6px -6px 12px #10ED0F;
+}
+
+button:active {
+ color: #FF0000;
+ box-shadow: inset 4px 4px 12px #10ED0F,
+             inset -4px -4px 12px #10ED0F;
+}
+
+
+
+
+
+
+p.mmm{
+  color: #5CFF0D;
+  height: 30px;
+  width: px;
+  position: relative;
+  text-align:right;
+}
